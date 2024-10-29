@@ -6,4 +6,4 @@
 4. Using the alert function, I'm going to display the combination
 5. I will add button to see if the user got the combination correct or not
 6. Using CSS i add color margins and other syntaxes to make the website look cleaner
-7. 
+7. make sure everything  is working properly by testing the website
